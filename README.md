@@ -159,5 +159,5 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 📬 Contact
 
-* LinkedIn: your-link
-* GitHub: your-username
+* LinkedIn: https://www.linkedin.com/in/kanike-preethi-061398334?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* GitHub: https://github.com/kanikepreethi98-source
